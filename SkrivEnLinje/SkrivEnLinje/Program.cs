@@ -6,7 +6,7 @@
         {
             Console.WriteLine("Hei hva heter du?");
             var input = Console.ReadLine();
-            Console.WriteLine($"Kenneth {input}");
+            Console.WriteLine($"Hei {input}!");
             var answer = Console.ReadLine();
             Console.WriteLine($"Kult navn! {answer}");
         }
